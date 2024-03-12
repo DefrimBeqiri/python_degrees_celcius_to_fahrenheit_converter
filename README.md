@@ -1,1 +1,2 @@
 # python_degrees_celcius_to_fahrenheit_converter
+This script defines a function celsius_to_fahrenheit() that takes a temperature value in degrees Celsius as input and returns its equivalent value in degrees Fahrenheit. The main() function prompts the user to enter a temperature in Celsius, calls the celsius_to_fahrenheit() function to convert it to Fahrenheit, and then displays the result. If the user enters invalid input, it catches the ValueError and displays an error message.
